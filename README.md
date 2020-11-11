@@ -1,2 +1,2 @@
 # workshop-gamedev-master
-[https://github.com/sbhacks-org/workshop-gamedev-starter](link to Starter Code)
+[link to Starter Code](https://github.com/sbhacks-org/workshop-gamedev-starter)
